@@ -52,7 +52,7 @@ The more usecases you cover, the more chance you will get to standout from other
 Use below API to get sample data for tasks
 
    curl --request GET \
-  --url [https://gcp-mock.apiwiz.io/v1/sprints](https://gcp-mock.apiwiz.io/v1/sprints) \
+  --url [https://gcp-mock.apiwiz.io/v1/tasks](https://gcp-mock.apiwiz.io/v1/tasks) \
   --header 'x-tenant: b4349714-47c7-4605-a81c-df509fc7e653'
 
 
