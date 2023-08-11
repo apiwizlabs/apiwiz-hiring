@@ -21,7 +21,7 @@ Create a Gantt chart that displays the sprint planning data. Each sprint should 
 **Basic:**
 1. You can get the sample data for Gantt chart using above API. You need to show the progress of the milestone in a Gantt chart.  
 2. In the Gantt chart show the progress as red, if milestone's tasks are extending the planned completion date of the sprint end date. (You will get milestone's end date, task's end date and sprint's end date from above API)
-3.  Add search by milestone filter in Gantt Chart
+3.  Add search by milestone filter in Gantt Chart, Show ongoing/completion percentage, 
 
 **Medium:**
 
@@ -59,4 +59,4 @@ Your assignment will be evaluated based on the following criteria:
 -   You are free to use any frontend libraries or frameworks you are comfortable with (e.g., React, Vue, Angular, plain HTML/CSS/JavaScript, etc.).
 -   Feel free to use open-source charting libraries if they suit the requirements.
 -   This is a simplified representation of a Gantt chart for learning purposes. Real-world Gantt charts may have more complex features and data.
--   No need to show ongoing/completion percentage, Feel free to add any data with addition to the data we are sending
+-   Feel free to add any data with addition to the data we are sending
