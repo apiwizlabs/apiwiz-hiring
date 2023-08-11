@@ -11,6 +11,10 @@ Create a Gantt chart that displays the sprint planning data. Each sprint should 
 
 1. API to get sprints data
 
+    curl --request GET \
+  --url [https://gcp-mock.apiwiz.io/v1/sprints](https://gcp-mock.apiwiz.io/v1/sprints) \
+  --header 'x-tenant: b4349714-47c7-4605-a81c-df509fc7e653'
+
 
 **Requirements:** 
 
