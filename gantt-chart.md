@@ -59,3 +59,4 @@ Your assignment will be evaluated based on the following criteria:
 -   You are free to use any frontend libraries or frameworks you are comfortable with (e.g., React, Vue, Angular, plain HTML/CSS/JavaScript, etc.).
 -   Feel free to use open-source charting libraries if they suit the requirements.
 -   This is a simplified representation of a Gantt chart for learning purposes. Real-world Gantt charts may have more complex features and data.
+-   No need to show ongoing/completion percentage, Feel free to add any data with addition to the data we are sending
