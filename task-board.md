@@ -1,5 +1,9 @@
 **Frontend Task Assignment: Task Management Web Application**
+
+
 ![Reference image](https://gcp-developer-acme-api.apiwiz.io/v2/image-v2/client-1/5e4d89a6/1-fk-6-d-iw-pb-n-lr-ks-19t-m-ll7-wa-2x-1cZDIOG6xWER9FMYr_ObS.webp?type=s3)
+
+
 **Objective:** Your task is to create a web application for task management. The application should allow users to manage tasks, group tasks into different stages (Ready, In Progress, Testing, Done), and provide a visual representation of task metrics. The application should also support drag-and-drop functionality to move tasks between different stages.
 
 **Requirements:**
