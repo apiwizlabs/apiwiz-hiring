@@ -20,7 +20,7 @@ Create a Gantt chart that displays the sprint planning data. Each sprint should 
 
 **Basic:**
 1. You can get the sample data for Gantt chart using above API. You need to show the progress of the milestone in a Gantt chart.  
-2. In the Gantt chart show the progress as red, if it's extending the planned completion date of the milestone/tasks/subtasks. (You will get milestone's end date, task's end date and subtask's end date from above API)
+2. In the Gantt chart show the progress as red, if milestone's tasks are extending the planned completion date of the sprint end date. (You will get milestone's end date, task's end date and sprint's end date from above API)
 3.  Add search by milestone filter in Gantt Chart
 
 **Medium:**
