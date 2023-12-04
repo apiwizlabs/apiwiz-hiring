@@ -52,8 +52,8 @@ The more usecases you cover, the more chance you will get to standout from other
 Use below API to get sample data for tasks
 
    curl --request GET \
-  --url [https://gcp-mock.apiwiz.io/v1/tasks](https://gcp-mock.apiwiz.io/v1/tasks) \
-  --header 'x-tenant: b4349714-47c7-4605-a81c-df509fc7e653'
+  --url https://stage-mock.apiwiz.io/v1/tasks \
+  --header 'x-tenant: b8e236df-4b26-49ef-9532-5e43ea0c10a4'
 
 
 **Deadline:** Please submit your completed assignment by 7th Dec 2023 11:59 PM.
