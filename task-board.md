@@ -56,7 +56,7 @@ Use below API to get sample data for tasks
   --header 'x-tenant: b4349714-47c7-4605-a81c-df509fc7e653'
 
 
-**Deadline:** Please submit your completed assignment by 14th Aug 2023 11:59 PM.
+**Deadline:** Please submit your completed assignment by 7th Dec 2023 11:59 PM.
 
 ---
 Feel free to reach out if you have any questions or need clarification on the requirements.
