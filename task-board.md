@@ -40,7 +40,7 @@
 
 -   Use HTML, CSS, and JavaScript to build the application.
 -   You can use libraries or frameworks like React, Angular, Vue.js, or any other of your choice.
--   For drag-and-drop functionality, you can use libraries like `react-beautiful-dnd` (for React) or equivalent for other frameworks.
+-   For drag-and-drop functionality, Try not to use any external library or frameworks if possible to gain a competitive edge.
 -   For task metrics visualization, you can use charts or graphs libraries such as Chart.js.
 
 **Submission:**
